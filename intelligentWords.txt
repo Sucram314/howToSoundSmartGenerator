@@ -1,0 +1,178 @@
+the square root of
+the cube root of
+the fourth root of
+the fifth root of
+the sixth root of
+the seventh root of
+the eighth root of
+the ninth root of
+the tenth root of
+the sixty-ninth root of
+the four hundred and twentieth root of
+the sixty-nine thousand four hundred and twentieth root of
+the four hundred and twenty thousand and sixty-ninth root of
+the factorial of
+the partial sums of
+the limit of
+the integral of
+the derivative of
+the summation of
+the product of
+the alternating difference of
+the sine of
+the cosine of
+the tangent of
+the secant of
+the cosecant of
+the cotangent of
+the probability of
+the binomial distribution of
+the solutions of
+the roots of
+the equation of
+the differential equation of
+the fourier transformation of
+the infinite sum of
+the convergence of
+the infinite fraction of
+the binary representation of
+the octal representation of
+the hexadecimal representation of
+the base sixty-four representation of
+the base sixty-five thousand five hundred and thirty-six representation of
+the real solutions of
+the imaginary solutions of
+the complex solutions of
+the general equation of
+the sign of
+the units digit of
+the tens digit of
+the hundreds digit of
+the thousands digit of
+the floor of
+the ceiling of
+the square of
+the cube of
+the analytic continuation of
+the formal proof of
+the geometric representation of
+the algebraic representation of
+the combinatorial proof of
+the algebraic proof of
+the geometric proof of
+the length of
+the area of
+the volume of
+the fourth dimensional volume of
+the sixty-ninth dimensional volume of
+the four hundred and twentieth dimensional volume of
+the arithmetic mean of
+the geometric mean of
+the median of
+the mode of
+the inverse of
+the absolute value of
+the discriminant of
+the determinant of
+the inverse sine of
+the inverse cosine of
+the inverse tangent of
+the inverse secant of
+the inverse cosecant of
+the inverse cotangent of
+the altitude of 
+the perpendicular bisector of
+the hypotenuse of
+the leg of
+the minimum of
+the maximum of
+the amplitude of
+the angle bisector of
+the circumcenter of
+the orthocenter of
+the centroid of
+the incenter of
+the circumradius of
+the inradius of
+the sector of
+the radius of
+the chord of
+the diameter of
+the angle of
+the inscribed angle of
+the interior angle of
+the exterior angle of
+the transversal angle of
+the coefficient of
+the constant term of
+the leading coefficent of
+the leading term of
+the degree of
+the remainder of
+the modulus of
+the eccentricity of
+the domain of
+the range of
+the codomain of
+the local minima of
+the local maxima of 
+the global minima of
+the global maxima of
+the fractional representation of
+the decimal representation of
+the mixed fraction representation of
+the improper fraction representation of
+the reduced form of
+the simplest form of
+the incircle of
+the circumcircle of
+the surface area of
+the least common multiple of
+the greatest common factor of
+the minimum polynomial of
+the period of
+the phase shift of
+the frequency of
+the midpoint of
+the permutations of
+the perimeter of
+the semiperimeter of
+the slope of
+the x-intercept of
+the y-intercept of
+the standard form equation of
+the vertex of
+the transpose of
+the row reduced matrix form of
+the eigen value matrix of
+the adjugate of
+the cofactor of
+the natural log of
+the log of
+the inflection points of
+the gram-schmidt orthogonalization of
+the parameterized form of 
+the linearization of
+the hyperbolic sine of
+the hyperbolic cosine of
+the hyperbolic tangent of
+the hyperbolic secant of
+the hyperbolic cosecant of
+the hyperbolic cotangent of
+the inverse hyperbolic sine of
+the inverse hyperbolic cosine of
+the inverse hyperbolic tangent of
+the inverse hyperbolic secant of
+the inverse hyperbolic cosecant of
+the inverse hyperbolic cotangent of
+the revolution of
+the fourth dimensional revolution of
+the differentials of
+the concavity of
+the definite integral of
+the indefinite integral of
+the conjugate of
+the skew symmetric matrix of
+the transformation matrix of
+the projection vector of
+
